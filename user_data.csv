@@ -1,0 +1,6 @@
+Admin,Account Number,pin,first name,last name,father name,email,age,dob in dd-mm-yyyy,id_card,gender,Amount,status
+yes,123,1234,haseeb,zafar,haseb father,haseeb@gmail,21,22-22-22,3840302367639,m,1000,inactive
+no,123,1234,haseeb,zafar,haseb father,haseeb@gmail,21,22-22-22,38403023676310,m,1000,active
+no,123,1234,haseeb,zafar,haseb father,haseeb@gmail,21,22-22-22,38403023676311,m,1000,active
+no,123,1234,haseeb,zafar,haseb father,haseeb@gmail,21,22-22-22,38403023676312,m,1000,active
+yes,123,1234,haseeb,zafar,haseb father,haseeb@gmail,21,22-22-22,38403023676313,m,1000,active
